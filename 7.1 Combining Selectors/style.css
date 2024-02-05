@@ -1,1 +1,15 @@
 /* Write your code here: */
+.box > p{
+    color: firebrick;
+}
+.box li{
+    color: blue;
+}
+
+.box li.done{
+    color: seagreen;
+}
+
+body > ul p{
+    font-size: 0.5rem;
+}
